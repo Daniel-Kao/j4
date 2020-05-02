@@ -7,4 +7,7 @@ package com.daniel;
 public class App 
 {
 
+    public void go() {
+        System.out.println("go boy");
+    }
 }
